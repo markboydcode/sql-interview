@@ -45,4 +45,4 @@ Write a SQL query statement for the following queries (don't worry about the exa
 
 Extra Credit: 
 - We have millions of books in this database. What index(es) would you suggest be added.
-
+- The database has grown to billions of books. What suggestions do you have for making this database more performant?
